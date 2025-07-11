@@ -11,12 +11,12 @@ def main():
         print("Ok good...hmm...let me think...")
         print(f"Your number is {computer_guess}!")
         if computer_guess == user_number:
-            print("I got it! Hahaha You Lose!")
+            print("I got it! Hahaha You Lose! XD")
         else:
-            print("Oh no! I lost! I guess that means you win!")
+            print("Oh no! I lost! I guess that means you win! :( whatever, man...")
            
     else:
-        print("Try again, but be for real this time...")
+        print("Try again, but be for real this time...rerun the program! >:(")
 
  
     
